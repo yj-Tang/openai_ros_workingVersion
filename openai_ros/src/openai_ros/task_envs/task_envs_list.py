@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 from gym.envs.registration import register
 from gym import envs
-
+#! /
 
 def RegisterOpenAI_Ros_Env(task_env, max_episode_steps=10000):
     """
